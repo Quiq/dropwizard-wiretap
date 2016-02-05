@@ -1,4 +1,4 @@
-DropWizard Wiretap Logger
+Dropwizard Wiretap Logger
 ===========================
 Log appender that works with DropWizard and exposes the last 500 log messages on an HTTP endpoint.
 
