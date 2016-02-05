@@ -83,4 +83,4 @@ format) to both console and wiretap:
 
 Contributors
 ------------
-* [Matt West](https://github.com/mjwest10) from [Centricient](https://github.com/mjwest10)
+* [Matt West](https://github.com/mjwest10) from [Centricient](https://github.com/centricient)
