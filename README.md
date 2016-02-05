@@ -49,7 +49,7 @@ Servlet container off of the admin port and host resources in it:
 
 Assuming you do this you can then see the last 500 log messages by hitting the following endpoint:
 
-http://localhost:8081/admin/wiretap
+[http://localhost:8081/admin/wiretap](http://localhost:8081/admin/wiretap)
 
 
 Advanced usage (Normal logging and RequestLog)
